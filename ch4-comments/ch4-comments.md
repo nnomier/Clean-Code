@@ -116,7 +116,7 @@ require('./bootstrap-amd').load('vs/code/node/cli');
 
 ```
 
-### Scacy Noise Comments
+### Scary Noise Comments
 
 ```java
    /** The name. */
