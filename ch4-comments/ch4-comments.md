@@ -99,8 +99,8 @@ public void loadProperties()
  * 29-May-2003 : Fixed bug in addMonths method (DG);
  * 04-Sep-2003 : Implemented Comparable.  Updated the isInRange javadocs (DG);
  * 05-Jan-2005 : Fixed bug in addYears() method (1096282) (DG);
+```
 
-    ```
 
 ### Noise Comments
 * Stating the Obvious
